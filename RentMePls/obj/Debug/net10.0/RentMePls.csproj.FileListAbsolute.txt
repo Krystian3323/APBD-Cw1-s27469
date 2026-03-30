@@ -1,0 +1,14 @@
+C:\Users\pamro\RiderProjects\RMP\RentMePls\bin\Debug\net10.0\RentMePls.exe
+C:\Users\pamro\RiderProjects\RMP\RentMePls\bin\Debug\net10.0\RentMePls.deps.json
+C:\Users\pamro\RiderProjects\RMP\RentMePls\bin\Debug\net10.0\RentMePls.runtimeconfig.json
+C:\Users\pamro\RiderProjects\RMP\RentMePls\bin\Debug\net10.0\RentMePls.dll
+C:\Users\pamro\RiderProjects\RMP\RentMePls\bin\Debug\net10.0\RentMePls.pdb
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\RentMePls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\RentMePls.AssemblyInfoInputs.cache
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\RentMePls.AssemblyInfo.cs
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\RentMePls.csproj.CoreCompileInputs.cache
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\RentMePls.dll
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\refint\RentMePls.dll
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\RentMePls.pdb
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\RentMePls.genruntimeconfig.cache
+C:\Users\pamro\RiderProjects\RMP\RentMePls\obj\Debug\net10.0\ref\RentMePls.dll
